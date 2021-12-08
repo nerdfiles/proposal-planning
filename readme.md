@@ -19,18 +19,25 @@ invented what?!" "rms hates javascript!?" How ever does one decide what to do
 in how things are going in the web of things, or the "most hostile development 
 environment imaginable" (Douglas Crockford, programmer)?
 
+What other way would you define a "dark age" if not that a majority of our 
+semantic web of belief is inaccessible (even the apps too!), with vendors 
+locking-out widely available talent?
+
 ## The State of Play
 
 Let's be frank, [Andy Clarke-style][clarke]: web design was and is [a mistake][mistake]. 
 The very "stuff happening" between "you" and "I", client and creator, is 
-grounded in metaphor: "all memories are screen memories"[3], and the screen is nothing like paper, I assure you.
-But you need to transact — and transform your business, not (just) let somebody 
-else mind it. Indeed, "transformative" is not (just) another [buzzword][buzz]. And all 
-education is violence[1]. You're not paying "me," one who "leverages" an open source and/or free software movement, just to hit the 
+grounded in metaphor: "all memories are screen memories"[3], and the screen is 
+nothing like paper, I assure you. But you need to transact — and transform 
+your business, not (just) let somebody else mind it. Indeed, "transformative" 
+is not (just) another [buzzword][buzz]. And all education is violence[1]. 
+You're not paying "me," one who "leverages" an open source and/or free software movement, just to hit the 
 market surface when [90% of the web is inaccessible][inaccessible]. [Mobile website 
-speeds have not increased in 10 years][needforspeed] yet our ISPs have improved "our" download 
-and latency performances, you ask? As all the major developer teams in their Major Company [Developer Developer Developer Developer][dev4]
-Shops have their own Way, as any "tech recruiter" is only authorized to say? (*career of 15 years going strong!, but what do I know?*)
+speeds have not increased in 10 years][needforspeed] yet our ISPs have improved 
+"our" download and latency performances, you ask? As all the major developer 
+teams in their Major Company [Developer Developer Developer Developer][dev4]
+Shops have their own Way, as any "tech recruiter" is only authorized to say? 
+(*career of 15 years going strong!, but what do I know?*)
 
 (We see you Comcast, SAP, VMWare, Dun & Bradstreet, Microsoft selling personally identifiable data to ICE, advertising "REST APIs", not "REST*ful*"; i.e., "transformative", and hey, please articulate why [MUST][rfc2119] hypermedia control *not* be used in GraphQL again, for "[conveyor-tube][tube]" messaging "data APIs"?) 
 
