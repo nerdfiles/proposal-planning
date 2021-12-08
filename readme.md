@@ -83,7 +83,7 @@ Or if trust is logically prior to desire?
 And certainly I've said a bit here. "You" and "I" might even think 
 this document's style has broken with the original stylistic constraints 
 laid out by Clarke, in his rejection of legalese. You may not think 
-the neoclassical, Sisyphean economy's formula, P=R+W+I, has anything 
+the neoclassical, [Sisyphean economy's formula][sisyphean][11], P=R+W+I, has anything 
 to do with your bottom-line — 
 
 Because it's all (just) math, right? Software is eating the world[7], ya say?
@@ -112,6 +112,7 @@ goals, and seriously playful when we can, "you" and "I" should hope.
 [9] Pattern Discrimination. Clemens Apprich, Wendy Hui Kyong Chun, Florian 
     Cramer, and Hito Steyerl.
 [10] Against Game Theory. Gale M. Lucas, Mathew D. McCubbins, and Mark Turner.
+[11] "The Sisyphean Economy". Stephen I. Ternyik.
 ```
 
 [clarke]: https://stuffandnonsense.co.uk/projects/contract-killer/#contract
@@ -122,3 +123,4 @@ goals, and seriously playful when we can, "you" and "I" should hope.
 [phil]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/ 
 [handshake]: https://github.com/kyokan/bob-wallet
 [needforspeed]: https://www.nngroup.com/articles/the-need-for-speed/
+[sisyphean]: https://www.researchgate.net/publication/314687329_The_Sisyphean_Economy
