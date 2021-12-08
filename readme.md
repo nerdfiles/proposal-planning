@@ -34,9 +34,13 @@ Shops have their own Way, as any "tech recruiter" is only authorized to say? (*c
 
 (We see you Comcast, SAP, VMWare, Dun & Bradstreet, Microsoft selling personally identifiable data to ICE, advertising "REST APIs", not "REST*ful*"; i.e., "transformative", and hey, please articulate why [MUST][rfc2119] hypermedia control *not* be used in GraphQL again, for "[conveyor-tube][tube]" messaging "data APIs"?) 
 
-A regular tragedy of the commons, if you ask me. And who really asks anything about anything anymore, all the Major Companies giving no feedback due to their security policies — lacking ODRL? GDPR? They're all doing the "best for the best customers with the best tools at the best times in the best SDLCs? But then, [accessibility *is* security and 
-privacy][privacy]; elsewhere: almost none of it is build "on" "transformative APIs"[6]; 
-that means no sandwiches for you! You're aware of who Jeff Bezos is, and how his 
+A regular tragedy of the commons, if you ask me. And who really asks anything 
+about anything anymore, all the Major Companies giving no feedback due to 
+their security policies — lacking ODRL? GDPR? Even jazz was "[conceived to be 
+about something][jazz]"! They're all doing the "best for the best customers with the best tools at the best times in the best SDLCs"? 
+But then, [accessibility *is* security and privacy][privacy]; elsewhere: 
+almost none of it is build "on" "transformative APIs"[6]; that means no 
+sandwiches for you! You're aware of who Jeff Bezos is, and how his 
 [API Mandate][apimandate] has constrained your business valid logic's capabilities, hindered 
 interrelations among and between others in the web and its search engine 
 results pages and your peers, obscured and obfuscated the attributes, 
@@ -142,3 +146,4 @@ fragility of knowledge, showing us the depth of our work to be done?
 [swartz]: https://en.wikipedia.org/wiki/United_States_v._Swartz
 [rfc2119]: https://tools.ietf.org/html/rfc2119
 [tube]: https://www.sciencedirect.com/science/article/abs/pii/S0020025504002385
+[jazz]: http://www.organissimo.org/forum/index.php?/topic/32325-tri-axium-writings-excerpt-vol-1-world-music/
