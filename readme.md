@@ -21,7 +21,7 @@ environment imaginable" (Douglas Crockford, programmer)?
 
 ## The State of Play
 
-Let's be frank, [Andy Clarke-style][clarke]: web design was [a mistake][mistake]. 
+Let's be frank, [Andy Clarke-style][clarke]: web design was and is [a mistake][mistake]. 
 The very "stuff happening" between "you" and "I", client and creator, is 
 grounded in metaphor: "all memories are screen memories"[3], and the screen is nothing like paper, I assure you.
 But you need to transact — and transform your business, not (just) let somebody 
