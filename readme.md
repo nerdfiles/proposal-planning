@@ -13,9 +13,10 @@ a market surface?
 Oh, "graceful degradation"? "Progressive enhancement"? "Mobile-first"? 
 "Design-first"? "API-first?" "TDD"? "IoT"? "Captioning?" "Localization"? "BIPS"? 
 "Smart" contracts, "smart" that? "[handshake wallets][handshake]"? "the 
-ecological impact of hash-cracking"? Is the browser war still on? How ever 
-does one decide what to do in how things are going in the web of things, or 
-the "most hostile development environment imaginable" (Douglas Crockford, programmer)?
+ecological impact of hash-cracking"? Is the browser war still on? "timbl 
+invented what?!" "rms hates javascript!?" How ever does one decide what to do 
+in how things are going in the web of things, or the "most hostile development 
+environment imaginable" (Douglas Crockford, programmer)?
 
 ## The State of Play
 
@@ -25,7 +26,10 @@ grounded in metaphor: "all memories are screen memories"[3], and the screen is n
 But you need to transact — and transform your business, not (just) let somebody 
 else mind it. Indeed, "transformative" is not (just) another [buzzword][buzz]. And all 
 education is violence[1]. You're not paying me just to hit the 
-market when [90% of the web is inaccessible][inaccessible]. And accessibility *is* security and 
+market when [90% of the web is inaccessible][inaccessible]. [Mobile website 
+speeds have not increased in 10 years][needforspeed] yet our ISPs have improved our download 
+performances, you ask? Yet all the major developer teams in their Major Company Dev 
+Shops have their own Way? A regular tragedy of the commons, if you ask me. And accessibility *is* security and 
 privacy; elsewhere: almost none of it is build "on" "transformative APIs"[6]; 
 that means no sandwiches for you! You're aware of who Bezos is, and how his 
 [API Mandate][apimandate] has constrained your business valid logic's capabilities, hindered 
@@ -117,3 +121,4 @@ when we can, "you" and "I" should hope.
 [apimandate]: https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/
 [phil]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/ 
 [handshake]: https://github.com/kyokan/bob-wallet
+[needforspeed]: https://www.nngroup.com/articles/the-need-for-speed/
