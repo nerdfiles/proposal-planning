@@ -11,7 +11,8 @@ have distracted me from the power of the web." Ah, but was it (just) apps and
 a market surface?
 
 Oh, "graceful degradation"? "Progressive enhancement"? "Mobile-first"? 
-"Design-first"? "API-first?" "TDD"? "IoT"? "Captioning?" "Localization"? "BIPS"? 
+"Design-first"? "API-first?" "TDD"? "domain-driven design" (or should these be 
+capitalized D's)? IoT"? "Captioning?" "Localization"? "BIPS"? 
 "Smart" contracts, "smart" that? "[handshake wallets][handshake]"? "the 
 ecological impact of hash-cracking"? Is the browser war still on? "timbl 
 invented what?!" "rms hates javascript!?" How ever does one decide what to do 
@@ -28,10 +29,14 @@ else mind it. Indeed, "transformative" is not (just) another [buzzword][buzz]. A
 education is violence[1]. You're not paying me just to hit the 
 market when [90% of the web is inaccessible][inaccessible]. [Mobile website 
 speeds have not increased in 10 years][needforspeed] yet our ISPs have improved our download 
-performances, you ask? Yet all the major developer teams in their Major Company Dev 
-Shops have their own Way? A regular tragedy of the commons, if you ask me. And accessibility *is* security and 
-privacy; elsewhere: almost none of it is build "on" "transformative APIs"[6]; 
-that means no sandwiches for you! You're aware of who Bezos is, and how his 
+and latency performances, you ask? Yet all the major developer teams in their Major Company [Developer Developer Developer Developer][dev4]
+Shops have their own Way? 
+
+(We see you Comcast, SAP, VMWare, Dun & Bradstreet, etc., advertising "REST APIs", not "REST*ful*"; and hey, please articulate why [MUST][rfc2119] hypermedia control *not* be used in GraphQL again, for conveyor-tube messaging "data APIs"?) 
+
+A regular tragedy of the commons, if you ask me. And who really asks anything about anything anymore, all the Major Companies giving no feedback due to their security policies — lacking ODRL? GDPR? They're all doing the "best for the best customers with the best tools at the best times in the best SDLCs? But then, [accessibility *is* security and 
+privacy][privacy]; elsewhere: almost none of it is build "on" "transformative APIs"[6]; 
+that means no sandwiches for you! You're aware of who Jeff Bezos is, and how his 
 [API Mandate][apimandate] has constrained your business valid logic's capabilities, hindered 
 interrelations among and between others in the web and its search engine 
 results pages and your peers, obscured and obfuscated the attributes, 
@@ -46,13 +51,15 @@ terror of value"[2]?
 You're paying me because you want to show good faith *and* good will here on 
 earth. We're not going to dance about secularization or its opposite. 
 
-You're not going to lecture me about your religions as a means to smuggle in 
+You're not going to lecture me about your cultural religions nor political ableisms as a means to smuggle in 
 Business Requirements you didn't think of until last minute. You're not going 
 to tell me anything I say is "simply unfair." You're not going to pay me (just) to solve "your" "problem", 
 if for no other reason than that you know you need someone other than 
 yourself to even articulate your problem. And you know I've been called 
 not nothing but other than "articulate". You're not suspicious of "grifts" 
-or scams, for no other reason than what we know. You're not feeling 
+or scams, for no other reason than what we know about how the empire of law codes 
+capital for everything we perceive in virtual stores and otherwise[15], from 
+cans of soup to NFTs to our personas as products. You're not feeling 
 intimidated, as you have no idea what it is like to make a living in 
 a web that is 90% inaccessible, a web where Roy Fielding's research 
 has been jacked. No, someone else being informed in historical and 
@@ -96,6 +103,10 @@ the least, it's not all (just) about game theory, a world as a hare-hunt.
 Because we're playfully serious, when we must be; maybe even reasonable in our 
 goals, and seriously playful when we can, "you" and "I" should hope.
 
+Tell us again, like when we saw the earth floating in space for the first time[13], 
+what did we take away when [Aaron Swartz][swartz] impressively took a stand for the 
+fragility of knowledge, showing us the depth of our work to be done?
+
 ```
 [1] Critique of Economic Reason. Andre Gorz.
 [2] The Empire of Value. Andre Orlean.
@@ -113,6 +124,8 @@ goals, and seriously playful when we can, "you" and "I" should hope.
     Cramer, and Hito Steyerl.
 [10] Against Game Theory. Gale M. Lucas, Mathew D. McCubbins, and Mark Turner.
 [11] "The Sisyphean Economy". Stephen I. Ternyik.
+[12] The Code of Capital. Katharina Pistor. (Also review The Legal Theory of Finance.)
+[13] Outer Space, Expansive Sustainable Development, and the Future of the Environmental Humanities. Brad Tabas.
 ```
 
 [clarke]: https://stuffandnonsense.co.uk/projects/contract-killer/#contract
@@ -124,3 +137,6 @@ goals, and seriously playful when we can, "you" and "I" should hope.
 [handshake]: https://github.com/kyokan/bob-wallet
 [needforspeed]: https://www.nngroup.com/articles/the-need-for-speed/
 [sisyphean]: https://www.researchgate.net/publication/314687329_The_Sisyphean_Economy
+[dev4]: https://www.youtube.com/watch?v=Vhh_GeBPOhs
+[privacy]: https://www.boia.org/blog/accessibility-is-privacy-and-security
+[swartz]: https://en.wikipedia.org/wiki/United_States_v._Swartz
