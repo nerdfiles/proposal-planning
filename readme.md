@@ -2,7 +2,7 @@
 
 Let's be frank, [Andy Clarke-style][clarke]: web design was a mistake. And all education 
 is violence[1]. You're not paying me just to hit the 
-market when 90% of the web is inaccessible. And accessibility *is* security and 
+market when [90% of the web is inaccessible][inaccessible]. And accessibility *is* security and 
 privacy; elsewhere: almost none of it is build "on" "transformative APIs"; 
 that means no sandwiches for you! You're aware of who Bezos is, and how his 
 API Mandate has constrained your business valid logic's capabilities, hindered 
@@ -65,3 +65,4 @@ various reasoners in a FOL form?" https://www.w3.org/community/philoweb/2014/01/
 ```
 
 [clarke]: https://stuffandnonsense.co.uk/projects/contract-killer/#contract
+[inaccessible]: https://abilitynet.org.uk/news-blogs/inaccessible-websites-keep-disabled-people-out-work-abilitynet-tells-government-taskforce
