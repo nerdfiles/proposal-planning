@@ -26,13 +26,13 @@ The very "stuff happening" between "you" and "I", client and creator, is
 grounded in metaphor: "all memories are screen memories"[3], and the screen is nothing like paper, I assure you.
 But you need to transact — and transform your business, not (just) let somebody 
 else mind it. Indeed, "transformative" is not (just) another [buzzword][buzz]. And all 
-education is violence[1]. You're not paying me just to hit the 
-market when [90% of the web is inaccessible][inaccessible]. [Mobile website 
-speeds have not increased in 10 years][needforspeed] yet our ISPs have improved our download 
-and latency performances, you ask? Yet all the major developer teams in their Major Company [Developer Developer Developer Developer][dev4]
-Shops have their own Way? 
+education is violence[1]. You're not paying "me," one who "leverages" an open source and/or free software movement, just to hit the 
+market surface when [90% of the web is inaccessible][inaccessible]. [Mobile website 
+speeds have not increased in 10 years][needforspeed] yet our ISPs have improved "our" download 
+and latency performances, you ask? As all the major developer teams in their Major Company [Developer Developer Developer Developer][dev4]
+Shops have their own Way, as any "tech recruiter" is only authorized to say? (*career of 15 years going strong!, but what do I know?*)
 
-(We see you Comcast, SAP, VMWare, Dun & Bradstreet, etc., advertising "REST APIs", not "REST*ful*"; and hey, please articulate why [MUST][rfc2119] hypermedia control *not* be used in GraphQL again, for conveyor-tube messaging "data APIs"?) 
+(We see you Comcast, SAP, VMWare, Dun & Bradstreet, Microsoft selling personally identifiable data to ICE, advertising "REST APIs", not "REST*ful*"; i.e., "transformative", and hey, please articulate why [MUST][rfc2119] hypermedia control *not* be used in GraphQL again, for "[conveyor-tube][tube]" messaging "data APIs"?) 
 
 A regular tragedy of the commons, if you ask me. And who really asks anything about anything anymore, all the Major Companies giving no feedback due to their security policies — lacking ODRL? GDPR? They're all doing the "best for the best customers with the best tools at the best times in the best SDLCs? But then, [accessibility *is* security and 
 privacy][privacy]; elsewhere: almost none of it is build "on" "transformative APIs"[6]; 
@@ -140,3 +140,5 @@ fragility of knowledge, showing us the depth of our work to be done?
 [dev4]: https://www.youtube.com/watch?v=Vhh_GeBPOhs
 [privacy]: https://www.boia.org/blog/accessibility-is-privacy-and-security
 [swartz]: https://en.wikipedia.org/wiki/United_States_v._Swartz
+[rfc2119]: https://tools.ietf.org/html/rfc2119
+[tube]: https://www.sciencedirect.com/science/article/abs/pii/S0020025504002385
