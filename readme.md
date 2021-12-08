@@ -11,9 +11,11 @@ have distracted me from the power of the web." Ah, but was it (just) apps and
 a market surface?
 
 Oh, "graceful degradation"? "Progressive enhancement"? "Mobile-first"? 
-"Design-first"? "API-first?" "TDD"? "IoT"? "Captioning?" "Localization"? Is 
-the browser war still on? How ever does one decide what to do in how things 
-are going in the web of things?
+"Design-first"? "API-first?" "TDD"? "IoT"? "Captioning?" "Localization"? "BIPS"? 
+"Smart" contracts, "smart" that? "[handshake wallets][handshake]"? "the 
+ecological impact of hash-cracking"? Is the browser war still on? How ever 
+does one decide what to do in how things are going in the web of things, or 
+the "most hostile development environment imaginable" (Douglas Crockford, programmer)?
 
 ## The State of Play
 
@@ -114,3 +116,4 @@ when we can, "you" and "I" should hope.
 [buzz]: https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
 [apimandate]: https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/
 [phil]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/ 
+[handshake]: https://github.com/kyokan/bob-wallet
