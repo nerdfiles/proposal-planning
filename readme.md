@@ -1,9 +1,24 @@
 # Proposal Planning
 
 Let's be frank: web design was a mistake. You're not paying me just to hit the 
-market when 90% of the web is inaccessible. You're paying me because you want 
-to show good faith *and* good will here on earth. We're not going to dance 
-about secularization or its opposite. You're not going to lecture me about 
+market when 90% of the web is inaccessible. And accessibility *is* security and 
+privacy; elsewhere: almost none of it is build "on" "transformative APIs"; 
+that means no sandwiches for you! You're aware of who Bezos is, and how his 
+API Mandate has constrained your business valid logic's capabilities, hindered 
+interrelations among and between others in the web and its search engine 
+results pages and your peers, obscured and obfuscated the attributes, 
+semantics and meaning-making potential of your business -- to the point of 
+seeming to house it in a digital time capsule whereof you set it and "forget 
+it". Why should "designers" be giving humans *static web junk* like debris in 
+space, lacking any possibility of semiotic autopoiesis? Ah, we're all just 
+slingin' "clever" poetic licenses in this wild, wild web, is it? How would you 
+honestly know, if not but for true belief and the right to ask about "the 
+terror of value"?
+
+You're paying me because you want to show good faith *and* good will here on 
+earth. We're not going to dance about secularization or its opposite. 
+
+You're not going to lecture me about 
 your religions as a means to smuggle in Business Requirements you didn't 
 think of until last minute. You're not going to tell me anything I say is 
 "simply unfair." You're not going to pay me (just) to solve "your" "problem", 
