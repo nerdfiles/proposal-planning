@@ -39,7 +39,7 @@ about anything anymore, all the Major Companies giving no feedback due to
 their security policies — lacking ODRL? GDPR? Even jazz was "[conceived to be 
 about something][jazz]"! They're all doing the "best for the best customers with the best tools at the best times in the best SDLCs"? 
 But then, [accessibility *is* security and privacy][privacy]; elsewhere: 
-almost none of it is build "on" "transformative APIs"[6]; that means no 
+almost none of it is built ("buidl'd"?) "on" "transformative APIs"[6]; that means no 
 sandwiches for you! You're aware of who Jeff Bezos is, and how his 
 [API Mandate][apimandate] has constrained your business valid logic's capabilities, hindered 
 interrelations among and between others in the web and its search engine 
