@@ -61,7 +61,7 @@ laid out by Clarke, in his rejection of legalese. You may not think
 the neoclassical, Sisyphean economy's formula, P=R+W+I, has anything 
 to do with your bottom-line — 
 
-Because it's all (just) math, right?
+Because it's all (just) math, right? Software is eating the world[7], ya say?
 
 ```
 [1] Critique of Economic Reason. Andre Gorz.
@@ -74,7 +74,7 @@ various reasoners in a FOL form?" https://www.w3.org/community/philoweb/2014/01/
 revelation was the people who build HTTP and use Hypermedia know what they’re 
 talking about —and we should listen to them." (James Gregory, Lead Consultant 
 at ThoughtWorks)
-
+[7] "There Is No Software". F. Kittler.
 ```
 
 [clarke]: https://stuffandnonsense.co.uk/projects/contract-killer/#contract
