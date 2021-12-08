@@ -39,7 +39,11 @@ teams in their Major Company [Developer Developer Developer Developer][dev4]
 Shops have their own Way, as any "tech recruiter" is only authorized to say? 
 (*career of 15 years going strong!, but what do I know?*)
 
-(We see you Comcast, SAP, VMWare, Dun & Bradstreet, Microsoft selling personally identifiable data to ICE, advertising "REST APIs", not "REST*ful*"; i.e., "transformative", and hey, please articulate why [MUST][rfc2119] hypermedia control *not* be used in GraphQL again, for "[conveyor-tube][tube]" messaging "data APIs"?) 
+(We see you Comcast, SAP, VMWare, Dun & Bradstreet, Microsoft selling 
+personally identifiable data to ICE, advertising "REST APIs", not "REST*ful*"; 
+i.e., "transformative", and hey, please articulate why [MUST][rfc2119] 
+hypermedia control *not* be used in GraphQL again, for "[conveyor-tube][tube]" 
+messaging "data APIs"?) 
 
 A regular tragedy of the commons, if you ask me. And who really asks anything 
 about anything anymore, all the Major Companies giving no feedback due to 
@@ -48,7 +52,7 @@ about something][jazz]"! They're all doing the "best for the best customers with
 But then, [accessibility *is* security and privacy][privacy]; elsewhere: 
 almost none of it is built ("buidl'd"?) "on" "transformative APIs"[6]; that means no 
 [sandwiches][swiber][15] for you! You're aware of who Jeff Bezos is, and how his 
-[API Mandate][apimandate] has constrained your business valid logic's capabilities, hindered 
+[API Mandate][apimandate] has constrained your business "validation" logic's capabilities, hindered 
 interrelations among and between others in the web and its search engine 
 results pages and your peers, obscured and obfuscated the attributes, 
 semantics and meaning-making potential of your business -- to the point of 
