@@ -1,5 +1,17 @@
 # Proposal Planning
 
+## TL;DR
+
+You want a website, because "want is logically prior to need" (Dark Ecology. 
+Timothy Morton.), and we all, or most of us, are fairly sure that "the terror 
+of value" depends on a "shared understanding" (Mike Amundsen) that grounds 
+trust: what we monitor, what we observe, what we learn, how we grow with the 
+art of business. Indeed, Jack, once CEO of a website, himself admitted: "apps 
+have distracted me from the power of the web." Ah, but was it (just) apps and 
+a market surface?
+
+## The State of Play
+
 Let's be frank, [Andy Clarke-style][clarke]: web design was [a mistake][mistake]. 
 The very "stuff happening" between "you" and "I", client and creator, is 
 grounded in metaphor: "all memories are screen memories"[3], and the screen is nothing like paper, I assure you.
