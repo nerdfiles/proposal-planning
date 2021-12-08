@@ -93,8 +93,8 @@ and "pattern discrimination"[9] are just as much valid concerns, just as
 valuable, as a game theory no one wishes to admit bit the dust long ago[10]. To say 
 the least, it's not all (just) about game theory, a world as a hare-hunt.
 
-Because we're playfully serious, when we must be, and seriously playful 
-when we can, "you" and "I" should hope.
+Because we're playfully serious, when we must be; maybe even reasonable in our 
+goals, and seriously playful when we can, "you" and "I" should hope.
 
 ```
 [1] Critique of Economic Reason. Andre Gorz.
