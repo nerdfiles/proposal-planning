@@ -78,15 +78,16 @@ when we can, "you" and "I" should hope.
 [2] The Empire of Value. Andre Orlean.
 [3] Abstract Market Theory. John Roffe.
 [4] Contingent Computation. Beatrice M. Fazi.
-[5] One hot question: "Isn’t there a need for cacheing the results of the 
-various reasoners in a FOL form?" 
-[6] (When we work on projects with more and more services involved the big 
-revelation was the people who build HTTP and use Hypermedia know what they’re 
-talking about —and we should listen to them." (James Gregory, Lead Consultant 
-at ThoughtWorks)
+[5] One serious but aging question: "Isn’t there a need for cacheing the results of the  
+    various reasoners in a FOL form?" 
+[6] "When we work on projects with more and more services involved the big  
+    revelation was the people who build HTTP and use Hypermedia know what they're  
+    talking about — and we should listen to them." (James Gregory, Lead Consultant  
+    at ThoughtWorks)
 [7] "There Is No Software". F. Kittler.
 [8] Race After Technology. Ruha Benjamin.
-[9] Pattern Discrimination. Clemens Apprich, Wendy Hui Kyong Chun, Florian Cramer, and Hito Steyerl.
+[9] Pattern Discrimination. Clemens Apprich, Wendy Hui Kyong Chun, Florian 
+    Cramer, and Hito Steyerl.
 [10] Against Game Theory. Gale M. Lucas, Mathew D. McCubbins, and Mark Turner.
 ```
 
