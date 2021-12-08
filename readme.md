@@ -99,7 +99,7 @@ to do with your bottom-line —
 
 Because it's all (just) math, right? Software is eating the world[7], ya say?
 
-Let's not go about misdocumenting as if concern for "everyday racial coding"[8] 
+Let's not go about [misdocumenting][jazz] as if concern for "everyday racial coding"[8] 
 and "pattern discrimination"[9] are just as much valid concerns, just as 
 valuable, as a game theory no one wishes to admit bit the dust long ago[10]. To say 
 the least, it's not all (just) about game theory, a world as a hare-hunt.
