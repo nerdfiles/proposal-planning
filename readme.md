@@ -39,12 +39,29 @@ of the W3C. You acknowledge standards and their technologies all
 around you: so now why are you coming just to kick me in the history 
 with a "time to market" mantra? We're people of and for good will 
 as much as we are from good faiths, many of them. And now you know 
-that "unconscious price deranges social value"[3].
+that "unconscious price deranges social value"[2].
+
+It's not (just) about code. You should be worried if your engineer 
+or developer, web or full-stuck, cannot reason about complex things 
+nor articulate without code in view, as if good programming is not 
+about design-first, data structures, and relationships, for "beauty 
+is the givenness of data."[4]
+
+And if you don't care if you engineers can articulate the philosophy 
+of the web[5]? And you expect them to secure your business logic? 
+
+Do you really want a website, if "want is logically prior to need"? 
+Or if trust is logically prior to desire?
 
 ```
 [1] Critique of Economic Reason. Andre Gorz.
-[1] The Empire of Value. Andre Orlean.
-[2] Abstract Market Theory. John Roffe.
+[2] The Empire of Value. Andre Orlean.
+[3] Abstract Market Theory. John Roffe.
+[4] Contingent Computation. Beatrice M. Fazi.
+[5] One hot question: "Isn’t there a need for cacheing the results of the 
+various reasoners in a FOL form?" https://www.w3.org/community/philoweb/2014/01/15/syllogism/
+
+"
 ```
 
 [clark]: https://stuffandnonsense.co.uk/projects/contract-killer/#contract
