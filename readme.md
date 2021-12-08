@@ -51,8 +51,8 @@ nor articulate without code in view, as if good programming is not
 about design-first, data structures, and relationships, for "beauty 
 is the givenness of data."[4]
 
-And if you don't care if you engineers can articulate the philosophy 
-of the web[5]? And you expect them to secure your business logic? 
+And if you don't care if your engineers can articulate [the philosophy 
+of the web][phil][5]? And you expect them to secure your business logic? 
 
 Do you really want a website, if "want is logically prior to need"? 
 Or if trust is logically prior to desire?
@@ -71,7 +71,7 @@ Because it's all (just) math, right? Software is eating the world[7], ya say?
 [3] Abstract Market Theory. John Roffe.
 [4] Contingent Computation. Beatrice M. Fazi.
 [5] One hot question: "Isn’t there a need for cacheing the results of the 
-various reasoners in a FOL form?" https://www.w3.org/community/philoweb/2014/01/15/syllogism/
+various reasoners in a FOL form?" 
 [6] (When we work on projects with more and more services involved the big 
 revelation was the people who build HTTP and use Hypermedia know what they’re 
 talking about —and we should listen to them." (James Gregory, Lead Consultant 
@@ -84,3 +84,4 @@ at ThoughtWorks)
 [mistake]: http://motherfuckingwebsite.com/
 [buzz]: https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
 [apimandate]: https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/
+[phil]: https://www.w3.org/community/philoweb/2014/01/15/syllogism/ 
