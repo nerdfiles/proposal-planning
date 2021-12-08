@@ -41,7 +41,10 @@ with a "time to market" mantra? We're people of and for good will
 as much as we are from good faiths, many of them. And now you know 
 that "unconscious price deranges social value"[3].
 
+```
 [1] Critique of Economic Reason. Andre Gorz.
 [1] The Empire of Value. Andre Orlean.
 [2] Abstract Market Theory. John Roffe.
-[clark] https://stuffandnonsense.co.uk/projects/contract-killer/#contract
+```
+
+[clark]: https://stuffandnonsense.co.uk/projects/contract-killer/#contract
