@@ -1,6 +1,7 @@
 # Proposal Planning
 
-Let's be frank: web design was a mistake. You're not paying me just to hit the 
+Let's be frank, [Andy Clarke-style][clarke]: web design was a mistake. And all education 
+is violence[1]. You're not paying me just to hit the 
 market when 90% of the web is inaccessible. And accessibility *is* security and 
 privacy; elsewhere: almost none of it is build "on" "transformative APIs"; 
 that means no sandwiches for you! You're aware of who Bezos is, and how his 
@@ -13,15 +14,14 @@ it". Why should "designers" be giving humans *static web junk* like debris in
 space, lacking any possibility of semiotic autopoiesis? Ah, we're all just 
 slingin' "clever" poetic licenses in this wild, wild web, is it? How would you 
 honestly know, if not but for true belief and the right to ask about "the 
-terror of value"?
+terror of value"[2]?
 
 You're paying me because you want to show good faith *and* good will here on 
 earth. We're not going to dance about secularization or its opposite. 
 
-You're not going to lecture me about 
-your religions as a means to smuggle in Business Requirements you didn't 
-think of until last minute. You're not going to tell me anything I say is 
-"simply unfair." You're not going to pay me (just) to solve "your" "problem", 
+You're not going to lecture me about your religions as a means to smuggle in 
+Business Requirements you didn't think of until last minute. You're not going 
+to tell me anything I say is "simply unfair." You're not going to pay me (just) to solve "your" "problem", 
 if for no other reason than that you know you need someone other than 
 yourself to even articulate your problem. And you know I've been called 
 not nothing but other than "articulate". You're not suspicious of "grifts" 
@@ -39,6 +39,9 @@ of the W3C. You acknowledge standards and their technologies all
 around you: so now why are you coming just to kick me in the history 
 with a "time to market" mantra? We're people of and for good will 
 as much as we are from good faiths, many of them. And now you know 
-that "unconscious price deranges social value"[1].
+that "unconscious price deranges social value"[3].
 
-[1] Abstract Market Theory. John Roffe.
+[1] Critique of Economic Reason. Andre Gorz.
+[1] The Empire of Value. Andre Orlean.
+[2] Abstract Market Theory. John Roffe.
+[clark] https://stuffandnonsense.co.uk/projects/contract-killer/#contract
