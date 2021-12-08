@@ -64,4 +64,4 @@ various reasoners in a FOL form?" https://www.w3.org/community/philoweb/2014/01/
 "
 ```
 
-[clark]: https://stuffandnonsense.co.uk/projects/contract-killer/#contract
+[clarke]: https://stuffandnonsense.co.uk/projects/contract-killer/#contract
