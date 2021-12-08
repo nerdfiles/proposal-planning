@@ -40,7 +40,7 @@ their security policies — lacking ODRL? GDPR? Even jazz was "[conceived to be
 about something][jazz]"! They're all doing the "best for the best customers with the best tools at the best times in the best SDLCs"? 
 But then, [accessibility *is* security and privacy][privacy]; elsewhere: 
 almost none of it is built ("buidl'd"?) "on" "transformative APIs"[6]; that means no 
-sandwiches for you! You're aware of who Jeff Bezos is, and how his 
+[sandwiches][swiber][15] for you! You're aware of who Jeff Bezos is, and how his 
 [API Mandate][apimandate] has constrained your business valid logic's capabilities, hindered 
 interrelations among and between others in the web and its search engine 
 results pages and your peers, obscured and obfuscated the attributes, 
@@ -130,6 +130,7 @@ fragility of knowledge, showing us the depth of our work to be done?
 [11] "The Sisyphean Economy". Stephen I. Ternyik.
 [12] The Code of Capital. Katharina Pistor. (Also review The Legal Theory of Finance.)
 [13] Outer Space, Expansive Sustainable Development, and the Future of the Environmental Humanities. Brad Tabas.
+[14] Simply put: you should be able to View Source on a webpage (and even in native apps, technically, if they would be a bit more open about all this, since most of them are built using HTTP and other web technologies offered by the W3C, anyway), then *see* the "layered" composition of an API response: typically as it should be minimally composed of actions (capabilities), (link or "relating") relations, attributes or "properties" (as Amundsen notes; and again, here, they are modal, contextual, etc., sometimes!), presentational modalities of and for hypermedia control (think accessibility; see above!), and some sense of *whose time it is* — maybe think of OWL-Time prefixing the standard link relations' strings in the <link> tags viewable in the HTML source code; or W3C mementos or W3C timegates, even! There is quite a bit to all this, and we haven't even mentioned the demands of cryptosystems, semantic hashing for speedy lookups, availability vs consistency, metastability and "meta APIs"!
 ```
 
 [clarke]: https://stuffandnonsense.co.uk/projects/contract-killer/#contract
@@ -147,3 +148,4 @@ fragility of knowledge, showing us the depth of our work to be done?
 [rfc2119]: https://tools.ietf.org/html/rfc2119
 [tube]: https://www.sciencedirect.com/science/article/abs/pii/S0020025504002385
 [jazz]: http://www.organissimo.org/forum/index.php?/topic/32325-tri-axium-writings-excerpt-vol-1-world-music/
+[swiber]: https://github.com/kevinswiber/siren
