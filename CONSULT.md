@@ -4,7 +4,8 @@ Is consultation better than the quality or nature of consultation?
 
 Let's remind ourselves of the working quality of software, shall we?
 
-<img src="" alt="
+<img src="https://raw.githubusercontent.com/nerdfiles/proposal-planning/master/assets/future-proof-software-systems--table-4.1-quality-properties-of-a-software-system.png" 
+     alt="
 Table 4.1 Quality properties of a software-system
 Software quality properties
 Accessibility Accountability Accuracy Adaptability Administrability Affordability Agility
