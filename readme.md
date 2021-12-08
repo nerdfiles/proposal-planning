@@ -83,7 +83,7 @@ Or if trust is logically prior to desire?
 And certainly I've said a bit here. "You" and "I" might even think 
 this document's style has broken with the original stylistic constraints 
 laid out by Clarke, in his rejection of legalese. You may not think 
-the neoclassical, [Sisyphean economy's formula][sisyphean][11], P=R+W+I, has anything 
+the neoclassical, [Sisyphean economy's formula][sisyphean][11], `P=R+W+I`, has anything 
 to do with your bottom-line — 
 
 Because it's all (just) math, right? Software is eating the world[7], ya say?
