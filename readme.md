@@ -10,6 +10,11 @@ art of business. Indeed, Jack, once CEO of a website, himself admitted: "apps
 have distracted me from the power of the web." Ah, but was it (just) apps and 
 a market surface?
 
+Oh, "graceful degradation"? "Progressive enhancement"? "Mobile-first"? 
+"Design-first"? "API-first?" "TDD"? "IoT"? "Captioning?" "Localization"? Is 
+the browser war still on? How ever does one decide what to do in how things 
+are going in the web of things?
+
 ## The State of Play
 
 Let's be frank, [Andy Clarke-style][clarke]: web design was [a mistake][mistake]. 
