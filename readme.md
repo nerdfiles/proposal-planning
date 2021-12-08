@@ -7,7 +7,7 @@ education is violence[1]. You're not paying me just to hit the
 market when [90% of the web is inaccessible][inaccessible]. And accessibility *is* security and 
 privacy; elsewhere: almost none of it is build "on" "transformative APIs"[6]; 
 that means no sandwiches for you! You're aware of who Bezos is, and how his 
-API Mandate has constrained your business valid logic's capabilities, hindered 
+[API Mandate][apimandate] has constrained your business valid logic's capabilities, hindered 
 interrelations among and between others in the web and its search engine 
 results pages and your peers, obscured and obfuscated the attributes, 
 semantics and meaning-making potential of your business -- to the point of 
@@ -74,3 +74,4 @@ at ThoughtWorks)
 [inaccessible]: https://abilitynet.org.uk/news-blogs/inaccessible-websites-keep-disabled-people-out-work-abilitynet-tells-government-taskforce
 [mistake]: http://motherfuckingwebsite.com/
 [buzz]: https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
+[apimandate]: https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/
