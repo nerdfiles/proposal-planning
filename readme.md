@@ -1,9 +1,9 @@
 # Proposal Planning
 
-Let's be frank, [Andy Clarke-style][clarke]: web design was a mistake. And all education 
+Let's be frank, [Andy Clarke-style][clarke]: web design was [a mistake][mistake]. But you need to transact — an transform. And all education 
 is violence[1]. You're not paying me just to hit the 
 market when [90% of the web is inaccessible][inaccessible]. And accessibility *is* security and 
-privacy; elsewhere: almost none of it is build "on" "transformative APIs"; 
+privacy; elsewhere: almost none of it is build "on" "transformative APIs"[6]; 
 that means no sandwiches for you! You're aware of who Bezos is, and how his 
 API Mandate has constrained your business valid logic's capabilities, hindered 
 interrelations among and between others in the web and its search engine 
@@ -39,7 +39,7 @@ of the W3C. You acknowledge standards and their technologies all
 around you: so now why are you coming just to kick me in the history 
 with a "time to market" mantra? We're people of and for good will 
 as much as we are from good faiths, many of them. And now you know 
-that "unconscious price deranges social value"[2].
+that "unconscious price deranges social value"[3].
 
 It's not (just) about code. You should be worried if your engineer 
 or developer, web or full-stuck, cannot reason about complex things 
@@ -60,9 +60,14 @@ Or if trust is logically prior to desire?
 [4] Contingent Computation. Beatrice M. Fazi.
 [5] One hot question: "Isn’t there a need for cacheing the results of the 
 various reasoners in a FOL form?" https://www.w3.org/community/philoweb/2014/01/15/syllogism/
+[6] (When we work on projects with more and more services involved the big 
+revelation was the people who build HTTP and use Hypermedia know what they’re 
+talking about —and we should listen to them." (James Gregory, Lead Consultant 
+at ThoughtWorks)
 
 "
 ```
 
 [clarke]: https://stuffandnonsense.co.uk/projects/contract-killer/#contract
 [inaccessible]: https://abilitynet.org.uk/news-blogs/inaccessible-websites-keep-disabled-people-out-work-abilitynet-tells-government-taskforce
+[mistake]: http://motherfuckingwebsite.com/
