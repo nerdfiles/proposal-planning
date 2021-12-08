@@ -1,7 +1,9 @@
 # Proposal Planning
 
-Let's be frank, [Andy Clarke-style][clarke]: web design was [a mistake][mistake]. But you need to transact — an transform. And all education 
-is violence[1]. You're not paying me just to hit the 
+Let's be frank, [Andy Clarke-style][clarke]: web design was [a mistake][mistake]. 
+But you need to transact — and transform your business, not (just) let somebody 
+else mind it. Indeed, "transformative" is not (just) another [buzzword][buzz]. And all 
+education is violence[1]. You're not paying me just to hit the 
 market when [90% of the web is inaccessible][inaccessible]. And accessibility *is* security and 
 privacy; elsewhere: almost none of it is build "on" "transformative APIs"[6]; 
 that means no sandwiches for you! You're aware of who Bezos is, and how his 
@@ -71,3 +73,4 @@ at ThoughtWorks)
 [clarke]: https://stuffandnonsense.co.uk/projects/contract-killer/#contract
 [inaccessible]: https://abilitynet.org.uk/news-blogs/inaccessible-websites-keep-disabled-people-out-work-abilitynet-tells-government-taskforce
 [mistake]: http://motherfuckingwebsite.com/
+[buzz]: https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
